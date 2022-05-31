@@ -26,7 +26,7 @@ namespace MethodExercise
             return num1 / num2;
         }
 
-        
+        //Parameter methods are on params.cs sheet
 
         static void Main(string[] args)
         {
