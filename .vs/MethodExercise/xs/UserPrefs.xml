@@ -2,11 +2,11 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MethodExercise/Program.cs">
     <Files>
-      <File FileName="MethodExercise/Program.cs" Line="28" Column="1" />
-      <File FileName="MethodExercise/params.cs" Line="30" Column="1" />
+      <File FileName="MethodExercise/Program.cs" Line="40" Column="13" />
+      <File FileName="MethodExercise/params.cs" Line="37" Column="10" />
+      <File FileName="MethodExercise/MadLib.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,5 +23,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.MethodExercise PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
